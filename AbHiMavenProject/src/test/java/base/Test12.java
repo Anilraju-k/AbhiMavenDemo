@@ -10,7 +10,7 @@ public class Test12 {
 	@Test
 	public void launch(){		
 	System.out.println("Helooooooooooooooooooooo");
-	//System.setProperty("webdriver.chrome.driver", "C:\\Automation Stuff\\chromedriver.exe");
+	
 	
 }
 
